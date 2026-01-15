@@ -51,8 +51,7 @@ body {
 }
 /* Main Hero Section Styles */
 .hero {
-    background-image: url("https://images.unsplash.com/photo-1519389950473-47ba0277781c
-");
+    background-image: url("https://images.unsplash.com/photo-1519389950473-47ba0277781c");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     width: 100%;
@@ -288,4 +287,5 @@ body {
 .blue-text {
     color: #363D73;
 }
+
 
